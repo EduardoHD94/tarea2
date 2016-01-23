@@ -1,3 +1,14 @@
+/** @file complexMath.c
+ *  @brief Function definitions for the complexMath library.
+ *
+ *  This contains the prototypes for the console
+ *  driver and eventually any macros, constants,
+ *  or global variables you will need.
+ *
+ *  @author Eduardo Herrera
+ *  @bug No known bugs.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "complexMath.h"

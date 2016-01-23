@@ -1,11 +1,14 @@
 /** @file main.c
- *  @brief Main program
+ *  @brief THe main program
  *
+ *  This contains the prototypes for the console
+ *  driver and eventually any macros, constants,
+ *  or global variables you will need.
  *
- *
- *
- * @author Eduardo Herrera
+ *  @author Eduardo Herrera
+ *  @bug No known bugs.
  */
+
 
 #include <stdio.h>
 #include "complexMath.h"
