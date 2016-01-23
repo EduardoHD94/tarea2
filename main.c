@@ -1,5 +1,5 @@
 /** @file main.c
- *  @brief THe main program
+ *  @brief The main program
  *
  *  This contains the prototypes for the console
  *  driver and eventually any macros, constants,
