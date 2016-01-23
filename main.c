@@ -10,8 +10,22 @@
 #include <stdio.h>
 #include "complexMath.h"
 
-void printUsage(void);
 
+/** @brief Print Usage 
+ * 
+ *
+ *  @return Void
+ */
+void printUsage();
+
+
+
+/** @brief The main program that do the operations 
+ * 
+ *  @param argc Pointer to the result of ComplexNumber struct
+ *  @param *argv[] First complex number
+ *  @return 0
+ */
 int main (int argc, char *argv[]){
 	struct ComplexNumber number1, number2, result;
 	char operator=0;
