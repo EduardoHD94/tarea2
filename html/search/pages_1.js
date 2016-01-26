@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['complexmath_2dcalculator',['complexMath-calculator',['../md_README.html',1,'']]]
+  ['numeros_20complejos_20_2d_20calculadora',['Numeros Complejos - Calculadora',['../index.html',1,'']]]
 ];

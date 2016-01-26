@@ -57,18 +57,18 @@ void setCNumber(struct ComplexNumber *ptr, float real, float img);
 void printCNumber(struct ComplexNumber *ptr);
 
 
-/** @brief Prints character 
+/** @brief Prints complex number 
  * 
  *  @param *result Pointer to complex number struct that contains the result of the operation 
  *	@param *number1 First complex number
  *  @param *number2 Second complex number
- *	@param operator operator to be tested
+ *	@param operator operator to test
  *  @return Void
  */
 void printOperation(struct ComplexNumber *result, struct ComplexNumber *number1, struct ComplexNumber *number2, char operator);
 
 
-/** @brief Prints character 
+/** @brief Prints the operation
  * 
  *  @param *result Result Of the operation
  *  @param *number1 First Pointer to ComplexNumber struct
